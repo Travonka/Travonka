@@ -1,4 +1,4 @@
-👋 Hi, I’m @Travonka \n
+👋 Hi, I’m @Travonka.
 Почти сеньор, почти тимлид.
 <!---
 Travonka/Travonka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
